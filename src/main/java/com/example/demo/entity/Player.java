@@ -19,7 +19,7 @@ public class Player {
 	@Column(name = "PLAYER_AGE")
 	private Integer playerAge;
 	
-	@Column(name = "LOCATIOn")
+	@Column(name = "LOCATION")
 	private String location;
 
 	public Integer getPlayerId() {
